@@ -1,5 +1,5 @@
 # A guide to install REPO with mods and make your own server (works for windows and linux)
-1. This is an all in one guide to install REPO with preinstalled mods and i have named it REPO1
+1. This is an all in one guide to install REPO with preinstalled mods and i have named it REPO1 , 
 REPO is a game made by semiwork https://store.steampowered.com/app/3241660/REPO and i do not claim any credit to it or the mods in REPO1
 2. I have used awc21 's method for the custom server, if u want more information read his guide:
 https://github.com/awc21/BepInEx-PhotonRedir
