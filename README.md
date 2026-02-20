@@ -20,5 +20,5 @@ https://github.com/awc21/BepInEx-PhotonRedir
 3. Setting up photonengine:
    - Go to "https://www.photonengine.com" create an account/sign up (its free), go to "dashboard" , press "Create A New App", Select Application Type: "Multiplayer Game" , Select Photon SDK : "Realtime" . Application Name : "GAMESERVER" , press "CREATE"
    - Go to "dashboard" again, there you gonno see your "GAMESERVER", and under "Realtime" theres gonno be an "App ID" ( its gonno look somthing like this 1bdab6bf-5123-4327-98e9-8a4812f7ce10), copy it
-4.Edit photon-redirect.cfg file:
+     4.Edit photon-redirect.cfg file:
    - Now go to your "repo1" folder > REPO > BepInEx > config > photon-redirect.cfg open with any text editor , there you gonno see "PhotonAppID = PASTE_HERE" , replace PASTE_HERE with your App ID from photonengine.com (its gonno look somthing like this PhotonAppID = 1bdab6bf-5123-4327-98e9-8a4812f7ce10 ), save your file and close it
