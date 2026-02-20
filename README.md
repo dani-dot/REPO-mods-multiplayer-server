@@ -3,7 +3,12 @@
 REPO is a game made by semiwork https://store.steampowered.com/app/3241660/REPO and i do not claim any credit to it or the mods
 2. I have used awc21 's method for the custom server, if u want more information read his guide:
 https://github.com/awc21/BepInEx-PhotonRedir
-3. The preinstalled mods are : 
+3. The preinstalled mods are :
+   -
+   -
+   -
+   -
+   -
 
 ## Instructions
 1. Go to https://github.com/dani-dot/Games-for-me/blob/main/repo.txt and open one of the links (doesnt matter which one)
