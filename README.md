@@ -31,7 +31,6 @@ https://github.com/awc21/BepInEx-PhotonRedir
    - This version of repo is not compatible with the steam version
    - Make sure you and your friends have this verison installed 
    - Only one person needs to make step 3. Setting up photonengine, share your "photonengine" "App ID" with your friends so they can paste it in "redirect.cfg"
-   - Make sure youand your friends have the same ""PhotonAppID" in "repo1" folder > REPO > BepInEx > config > photon-redirect.cfg
-   - 
-7. 
-8. 
+   - Make sure you and your friends have the same ""PhotonAppID" in "repo1" folder > REPO > BepInEx > config > photon-redirect.cfg
+   - You can invite your friends to your repo sesion trough the invite button and invite to spacewars or creating a public lobby
+7. Enjoy moded REPO with your own private server!
