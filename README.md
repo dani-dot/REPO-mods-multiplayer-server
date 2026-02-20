@@ -4,11 +4,11 @@ REPO is a game made by semiwork https://store.steampowered.com/app/3241660/REPO 
 2. I have used awc21 's method for the custom server, if u want more information read his guide:
 https://github.com/awc21/BepInEx-PhotonRedir
 3. The preinstalled mods are :
-   -
-   -
-   -
-   -
-   -
+   - MoreHead https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/
+   - Wesleys Enemies https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Enemies/
+   - MoreUpgrades https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/
+   - Mimic https://thunderstore.io/c/repo/p/eth9n/Mimic/
+   - Wesleys Levels https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/
 
 ## Instructions
 1. Go to https://github.com/dani-dot/Games-for-me/blob/main/repo.txt and open one of the links (doesnt matter which one)
